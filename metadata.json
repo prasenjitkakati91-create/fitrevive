@@ -1,0 +1,5 @@
+{
+  "name": "FitRevive Physiotherapy Clinic",
+  "description": "Professional physiotherapy and rehabilitation services for a healthier, more active life.",
+  "requestFramePermissions": ["geolocation"]
+}
